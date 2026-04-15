@@ -1,0 +1,2 @@
+# NoxRate-ai
+Zynx ai
